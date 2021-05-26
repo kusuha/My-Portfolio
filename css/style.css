@@ -223,7 +223,7 @@ button {
 }
 
 .footer {
-  background-image: url(/image/contact003.jpg);
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/contact003.jpg);
   height: auto;
   background-size: cover;
   background-position: center;
@@ -262,7 +262,7 @@ button {
 
 .top .top-video {
   overflow: hidden;
-  background-image: url(/image/sky001.jpg) no-repeat center center/cover;
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/sky001.jpg) no-repeat center center/cover;
 }
 
 .top .top-video video {
@@ -295,7 +295,7 @@ button {
 
 .profile {
   height: auto;
-  background-image: url(/image/profile002.jpg);
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/profile002.jpg);
   background-size: cover;
   background-position: center;
   padding-bottom: 80px;
@@ -341,7 +341,7 @@ button {
 }
 
 .skills {
-  background-image: url(/image/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
   height: auto;
   background-size: cover;
   background-position: center;
@@ -385,7 +385,7 @@ button {
 }
 
 .service {
-  background-image: url(/image/book001.jpg);
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/book001.jpg);
   height: 100%;
   background-size: cover;
   background-position: center;
@@ -485,7 +485,7 @@ button {
 }
 
 .works {
-  background-image: url(/image/art001.jpg);
+  background-image: url(https://kusuha.github.io/My-Portfolio/image/art001.jpg);
   background-size: cover;
   background-position: center;
   height: auto;
