@@ -1,0 +1,11 @@
+.cmn-ttl {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .main {
+    font-size: 50px;
+    display: block;
+    color: cl(white);
+    text-shadow: 2px 2px 2px cl(black);
+  }
+}

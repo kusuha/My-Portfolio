@@ -1,0 +1,38 @@
+.profile {
+  height: auto;
+  background-image: url(/image/profile002.jpg);
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 80px;
+  margin-top: -10px;
+  .profile-item {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .text {
+    color: cl(white);
+    text-align: left;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px cl(black);
+    // 囲み線
+    padding: 0 20px; /*線とテキストの間隔*/
+    margin: 0 50px;
+    border-left: double 10px #4ec4d3; /*左線*/
+    border-right: double 10px #4ec4d3; /*右線*/
+    p {
+      margin: 0;
+      padding: 0;
+    }
+    @include overTab {
+      font-size: 25px;
+    }
+    b {
+      font-size: 30px;
+      font-weight: bold;
+      // color: cl(green);
+      background: linear-gradient(transparent 75%, #7fff7f 75%);
+      border-radius: 6px;
+      // text-shadow: none;
+    }
+  }
+}

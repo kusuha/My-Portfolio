@@ -1,0 +1,27 @@
+.footer {
+  background-image: url(/image/contact003.jpg);
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  .nav-wrap {
+  }
+  .nav-list {
+    display: flex;
+    justify-content: center;
+  }
+  .item {
+    img {
+      width: 60px;
+      height: auto;
+      margin: 10px;
+      background-color: cl(black);
+      border-radius: 20px;
+    }
+  }
+  .copyright {
+    text-align: center;
+    color: cl(white);
+    margin-top: 30px;
+    padding-bottom: 10px;
+  }
+}
